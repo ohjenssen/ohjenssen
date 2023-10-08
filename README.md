@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohjenssen. Oskar will also do fine.
-- 👀 I’m interested in HTML, CSS and Javascript (and probably more down the road).
+- 👀 I’m working with HTML, CSS, Javascript and React (so far).
 - 🌱 I’m currently studying frontend developement at Noroff School of technology and digital media.
 - 📫 You can reach me at oskar_jenssen@hotmail.com
 
