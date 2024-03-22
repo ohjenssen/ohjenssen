@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ohjenssen. Oskar will also do fine.
-- 👀 I’m working with HTML, CSS, Javascript and React (so far).
-- 🌱 I’m currently studying frontend developement at Noroff School of technology and digital media.
+- 👋 Hi, I’m Oskar.
+- 👀 I’m working with HTML, CSS, Javascript, Python, PHP and React (so far).
+- 🌱 I have completed an education as a frontend-developer and currently studing Multimediadesign in Denmark.
 - 📫 You can reach me at oskar_jenssen@hotmail.com
 
 <!---
